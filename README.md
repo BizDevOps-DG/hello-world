@@ -1,2 +1,2 @@
 # hello-world
-Hello World
+Hello World project to test the CircleCI Integration.
